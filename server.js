@@ -119,7 +119,7 @@ client.login(ayarlar.token);
 
 const youTube = require('simple-youtube-api');
 const Ytdl = require('ytdl-core');
-const youtube = new YouTube('AIzaSyDVbcpRehd1-rLlc55oHWUkM0WESWQGcQ0');
+const youtube = new YouTube('APİ KEYİNİZİ YAZINIZ');
 const Queue = new Map();
 var prefix = ayarlar.prefix;
 
